@@ -1,0 +1,25 @@
+{
+    "name": "PAIN",
+    "version": "0.0.1",
+    "main": "src/Pain.js",
+    "license": "MIT",
+    "author": "Refringe",
+    "sptVersion": "~3.11",
+    "scripts": {
+        "setup": "npm i",
+        "postinstall": "node ./postInstall.mjs",
+        "build": "node ./build.mjs",
+        "buildinfo": "node ./build.mjs --verbose"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "@biomejs/biome": "1.9.4",
+        "@types/node": "22.10.5",
+        "archiver": "7.0.1",
+        "fs-extra": "11.2.0",
+        "tsyringe": "4.8.0",
+        "typescript": "5.8.2",
+        "winston": "3.17.0",
+        "ignore": "^7.0.5"
+    }
+}
