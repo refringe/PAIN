@@ -12,7 +12,7 @@ It's time to separate the PMCs from the tourists. If you can't tell a Salewa fro
 
 # Features:
 - Forgetting what an AI-2 looks like for the tenth time.
-- Is that a magazine or a bannana? You'll never reload until you know!
+- Is that a magazine or a banana? You'll never reload until you know!
 - Making you truly earn the knowledge that a T-Plug is, in fact, not a weapon.
 - The joy of discovering that you can't repair a broken leg with a splint, because you don't know what it looks like.
 
