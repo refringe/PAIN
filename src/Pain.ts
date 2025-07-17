@@ -28,7 +28,7 @@ class Pain implements IPostDBLoadMod {
     private static launcherController: any; // Using `any` to access protected methods.
     private static hashUtil: HashUtil;
 
-    private static readonly PAINED_PROFILES = "./user/painedProfiles.json";
+    private static readonly PAINED_PROFILES = "./user/mods/refringe-pain/painedProfiles.json";
 
     /**
      * Register a static router for the PAIN client game mode route.
