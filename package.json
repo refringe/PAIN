@@ -1,10 +1,10 @@
 {
     "name": "PAIN",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "main": "src/Pain.js",
     "license": "MIT",
     "author": "Refringe",
-    "sptVersion": "~3.11",
+    "sptVersion": "~3.11.3",
     "scripts": {
         "setup": "npm i",
         "postinstall": "node ./postInstall.mjs",

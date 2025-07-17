@@ -2,6 +2,20 @@
 
 This is a mod for [Single Player Tarkov](https://www.sp-tarkov.com/).
 
+Remember the good ol' days? When Tarkov had hair on its chest? When every raid was a true lesson and every piece of loot was a mystery waiting to be solved?
+
+Somehow, our PMCs became walking encyclopedias, instantly recognizing every screw, optic, and pack of croutons in the city. Real PMCs are forged in ignorance and uncertainty. They don't just find loot; they identify, study, and master it.
+
+Fear not, we've bottled that classic experience for you; it's P.A.I.N. — Painstaking Agony Induced Nuisance.
+
+It's time to separate the PMCs from the tourists. If you can't tell a Salewa from a bottle of saline without looking, you haven't earned the right to use it. **Embrace the P.A.I.N.**
+
+# Features:
+- Forgetting what an AI-2 looks like for the tenth time.
+- Is that a magazine or a bannana? You'll never reload until you know!
+- Making you truly earn the knowledge that a T-Plug is, in fact, not a weapon.
+- The joy of discovering that you can't repair a broken leg with a splint, because you don't know what it looks like.
+
 # To install:
 
 1. Decompress the contents of the download into your root SPT directory.

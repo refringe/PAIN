@@ -1,5 +1,4 @@
 /.buildignore
-/.DS_Store
 /.editorconfig
 /.eslintignore
 /.eslintrc.json
@@ -14,8 +13,10 @@
 /dist
 /images
 /mod.code-workspace
-/node_modules/*
+/node_modules
 /package-lock.json
 /postInstall.mjs
 /tsconfig.json
 /types
+/biome.jsonc
+.DS_Store
